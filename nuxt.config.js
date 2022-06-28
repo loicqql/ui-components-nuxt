@@ -48,5 +48,11 @@ export default {
         implementation: require('sass'),
       },
     },
+  },
+
+  target: 'static',
+
+  router: {
+    base: '/ui-components-nuxt/'
   }
 }
