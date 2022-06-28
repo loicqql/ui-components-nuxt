@@ -1,7 +1,7 @@
 <template>
   <div class="index">
     <NuxtLink to="/road-96">Road-96</NuxtLink>
-    <NuxtLink to="/cyberpunk-2077">Cyberpunk 2077</NuxtLink>
+    <!-- <NuxtLink to="/cyberpunk-2077">Cyberpunk 2077</NuxtLink> -->
   </div>
 </template>
 
