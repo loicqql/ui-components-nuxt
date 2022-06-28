@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/road-96", {data:[{}],fetch:{},mutations:void 0});
